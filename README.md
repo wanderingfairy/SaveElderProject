@@ -7,18 +7,23 @@
 ## Description
 
 - 기간 : 2020.01.15
-
 - 사용 기술
 
   - Language : Swift
   - Framework: UIKit, MapKit, CoreLocation
   - Back-End : Google Firebase
-
 - 팀원 : 정의석, 박인준, 이희진 (iOS 3명)
-
 - 맡은 역할 : 프로젝트 기획, 메인 코딩, Firebase를 이용한 데이터베이스 관리, 로그인과 푸시 알림 등 주요 기능 구현.
 
-  
+
+
+---
+
+## 실제 구동 영상(Youtube link)
+
+## https://youtu.be/F-yDENq8WJc
+
+
 
 ---
 
@@ -32,13 +37,23 @@
 
 ![스크린샷 2020-09-05 오후 6.23.51](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwf8goklj30g60c6dh4.jpg)
 
+
+
+---
+
+
+
 ![스크린샷 2020-09-05 오후 6.24.00](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwfewfl9j30l30f040x.jpg)
 
 ![스크린샷 2020-09-05 오후 6.24.10](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwfl0sr8j30lu0bh76d.jpg)
 
+---
+
+
+
 ![스크린샷 2020-09-05 오후 6.24.18](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwfqmgogj30l00fp76a.jpg)
 
-
+---
 
 ---
 
@@ -58,15 +73,22 @@
 
 ![스크린샷 2020-09-05 오후 6.25.34](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwh1vy9tj30kp0crtae.jpg)
 
+---
+
+
+
 ![스크린샷 2020-09-05 오후 6.25.44](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwh7xaaxj30ln0erq5t.jpg)
-
-![스크린샷 2020-09-05 오후 6.25.51](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwhbpz9gj30ka0f176q.jpg)
-
-![스크린샷 2020-09-05 오후 6.25.58](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwhfu1egj30iv0fm76u.jpg)
 
 ---
 
-## 실제 구동 영상(Youtube link)
 
-## https://youtu.be/F-yDENq8WJc
 
+![스크린샷 2020-09-05 오후 6.25.51](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwhbpz9gj30ka0f176q.jpg)
+
+---
+
+
+
+![스크린샷 2020-09-05 오후 6.25.58](https://tva1.sinaimg.cn/large/007S8ZIlgy1gifwhfu1egj30iv0fm76u.jpg)
+
+## 
